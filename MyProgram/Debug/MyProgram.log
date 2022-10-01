@@ -1,0 +1,6 @@
+﻿  MyProgram.cpp
+C:\Users\masri family\source\repos\MyProgram\MyProgram\MyProgram.cpp(11,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  classes.cpp
+  uni.cpp
+  Generating Code...
+  MyProgram.vcxproj -> C:\Users\masri family\source\repos\MyProgram\Debug\MyProgram.exe
