@@ -5,6 +5,7 @@
 #include<istream>
 #include<ostream>
 #include"classes.h"
+#include <cstring>
 
 using namespace std;
 

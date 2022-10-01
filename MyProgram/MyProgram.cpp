@@ -8,7 +8,7 @@
 
 using namespace std;
 
-void main() {
+int main() {
 
 	int x;
 	int flag = 1, f = 1, f1 = 1;;
@@ -196,6 +196,7 @@ void main() {
 	}
 	fclose(P1);
 	delete[]s;
+	return 0;
 	
 }
 
